@@ -1,0 +1,3 @@
+inxi -Fxpmrz
+
+#commands
